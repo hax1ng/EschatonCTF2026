@@ -1,6 +1,6 @@
 # Key 3 - Writeup
 
-**Category:** Reversing | **Points:** 480 | **Author:** @solvz
+**Category:** Reversing | **Author:** @solvz
 
 > EnterpriseCore's premium licensing system uses a complex method for key generation. Reverse engineer the binary to build a keygen that works for any parameters.
 
