@@ -1,7 +1,6 @@
 # Forgemaster's Folly - Writeup
 
 **Category:** Crypto
-**Points:** 500
 **Flag:** `esch{c0pp3r5m1th_l4tt1c3_4tt4ck_ftw}`
 
 ---
