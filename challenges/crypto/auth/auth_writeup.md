@@ -1,7 +1,6 @@
 # Auth Writeup
 
 **Category:** Crypto
-**Points:** 100
 **Flag:** `esch{modes-change-security-shadow-viper-2317}`
 
 ---
