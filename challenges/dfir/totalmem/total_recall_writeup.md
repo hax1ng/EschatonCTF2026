@@ -2,7 +2,6 @@
 
 **CTF:** EschatonCTF 2026
 **Category:** DFIR (Digital Forensics & Incident Response)
-**Points:** 340
 **Author:** @andrewcanil
 
 ## The Challenge
