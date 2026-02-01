@@ -1,7 +1,6 @@
 # SecureVault - PWN Challenge Writeup
 
 **Category:** PWN
-**Points:** 480
 **Flag:** `esch{canaries-can-be-bypassed-falcon-raven-307}`
 
 ---
