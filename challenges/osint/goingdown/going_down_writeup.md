@@ -1,7 +1,6 @@
 # Going Down - OSINT Challenge Writeup
 
 **Category:** OSINT
-**Points:** 100
 **Author:** @andrewcanil
 
 ## Challenge Description
