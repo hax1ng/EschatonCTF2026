@@ -1,7 +1,6 @@
 # Key 2 - Writeup
 
 **Category:** Reverse Engineering
-**Points:** 100
 **Author:** @solvz
 
 ## The Challenge
