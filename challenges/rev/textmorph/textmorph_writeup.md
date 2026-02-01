@@ -2,7 +2,6 @@
 
 **Challenge:** textmorph
 **Category:** Reverse Engineering
-**Points:** 500
 **Author:** @solvz
 **Flag:** `esch{f0und_th3_h1dden_r1gby}`
 
