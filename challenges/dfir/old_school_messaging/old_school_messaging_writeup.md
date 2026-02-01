@@ -1,7 +1,6 @@
 # Old School Messaging - Writeup
 
 **Category:** DFIR (Digital Forensics & Incident Response)
-**Points:** 500
 **Flag:** `esch{c0mmunicat1on_d3c0d3d_th3_0ld_way}`
 
 ---
