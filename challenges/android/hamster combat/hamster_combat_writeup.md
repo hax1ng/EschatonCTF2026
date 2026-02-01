@@ -2,7 +2,6 @@
 
 **CTF:** EschatonCTF 2026
 **Category:** Android
-**Points:** 480
 **Author:** @psychoSherlock
 
 ## TL;DR
