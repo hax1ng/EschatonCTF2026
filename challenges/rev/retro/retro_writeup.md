@@ -1,7 +1,6 @@
 # Retro - CTF Writeup
 
 **Category:** Reverse Engineering
-**Points:** 500
 **CTF:** EschatonCTF 2026
 
 ---
