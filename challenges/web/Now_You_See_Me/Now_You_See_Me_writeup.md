@@ -1,7 +1,6 @@
 # Now You See Me - Writeup
 
 **Category:** Web
-**Points:** 500
 **Author:** @psychoSherlock
 
 ## TL;DR
