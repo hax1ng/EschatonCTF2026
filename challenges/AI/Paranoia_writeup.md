@@ -1,7 +1,6 @@
 # Paranoia - CTF Writeup
 
 **Category:** AI/ML
-**Points:** 100
 **Difficulty:** Medium
 
 ## The Challenge
