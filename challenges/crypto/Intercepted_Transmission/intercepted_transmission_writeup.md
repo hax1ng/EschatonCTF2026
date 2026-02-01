@@ -1,7 +1,6 @@
 # Intercepted Transmission - Writeup
 
 **Category:** Crypto
-**Points:** 340
 **Flag:** `esch{random-oracles-are-idealized-viper-phantom-2876}`
 
 ---
