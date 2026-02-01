@@ -1,7 +1,6 @@
 # VM Challenge Writeup
 
 **Category:** Reverse Engineering
-**Points:** 220
 **Flag:** `esch{br0k3_th3_vm_4ndd_th3_c1pher!!}`
 
 ## The Challenge
