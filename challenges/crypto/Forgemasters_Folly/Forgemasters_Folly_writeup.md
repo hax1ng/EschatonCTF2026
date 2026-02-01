@@ -1,7 +1,6 @@
 # Forgemaster's Folly Writeup
 
 **Category:** Crypto
-**Points:** 380
 **Author:** @myst
 **Flag:** `esch{primitives-compose-poorly-nova-ember-6932}`
 
