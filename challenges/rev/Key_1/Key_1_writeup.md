@@ -1,7 +1,6 @@
 # Key 1 - Writeup
 
 **Category:** Reverse Engineering
-**Points:** 450
 **Flag:** `esch{destructors-clean-up-lunar-nova-2168}`
 
 ## The Challenge
